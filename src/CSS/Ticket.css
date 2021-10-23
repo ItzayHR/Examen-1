@@ -1,0 +1,47 @@
+.Contenedor2
+{
+    margin-top: 5.324813631522897vh;
+}
+
+.Ticket
+{
+    display:flex;
+    text-align: center;
+    flex-direction:column;
+    justify-content: space-around;
+    min-height: 60vmin;
+    flex-wrap: wrap;
+    margin-top: 5vmin;
+    font-size: calc(0.5324813631522897vh + 2vmin);
+    min-width: 40vw;
+    min-height: 45vh;
+    background-color: #CCC;
+    border-radius: 1.0649627263045793vh;
+    border: solid 0.21299254526091588vh black;
+}
+
+.Botones
+{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+}
+
+.VacioTicket
+{
+    display:flex;
+    text-align: center;
+    flex-direction:column;
+    justify-content: space-around;
+    min-height: 1vmin;
+    flex-wrap: wrap;
+    margin-top: 11vmin;
+    font-size: calc(0.8519701810436635vh + 2vmin);
+    min-width: 40vw;
+}
+
+input
+{
+    text-align: center;
+    width: 15vmin;
+}

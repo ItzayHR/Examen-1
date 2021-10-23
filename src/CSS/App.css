@@ -1,0 +1,14 @@
+.App
+{
+    text-align: center;
+}
+
+.Contenedor
+{
+  display:flex;
+  flex-direction:row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  font-size: calc(5px + 2vmin);
+  margin-bottom: 5vmin;
+}
